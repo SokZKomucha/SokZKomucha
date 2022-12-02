@@ -4,7 +4,7 @@
 
 ## Co to jest?
 
-Jest to mój profil na GitHubie. Przechowywane są tu pliki ze szkoły oraz własne projekty. Na dzień dzisiejszy (02/12/2022) znajduje się tu większość rzeczy, którew były przerabiane na AITP oraz informatyce. 
+Jest to mój profil na GitHubie. Przechowywane są tu pliki ze szkoły oraz własne projekty. Na dzień dzisiejszy (02/12/2022) znajduje się tu większość rzeczy, które były przerabiane na AITP oraz informatyce. 
 Wszystko znajdujące się na tym profilu może być dowolnie kopiowane w dowolnych celach. Przy wykorzystaniu komercyjnym (a w to wątpię) prosiłbym o podanie linku do mojego profilu w opisie projektu.
   
   
