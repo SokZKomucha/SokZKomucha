@@ -11,7 +11,8 @@ Wszystko znajdujące się na tym profilu może być dowolnie kopiowane w dowolny
   
 ## Co gdzie jest?
 
-Poszczególne przedmioty szkolne (AITP/informatyka) mają osobne repozytoria. Projekty własne mogą być znalezione w tym repozytorium, w odpowienich folderach.
+Poszczególne przedmioty szkolne (AITP/informatyka) mają osobne repozytoria. Są one prywatne, z uwagi na obecność pewnych informacji. Jeżeli chcesz zobaczyć mój kod oraz Ci ufam, otrzymasz odpowiednie rzeczy. 
+Projekty własne mogą być znalezione w tym repozytorium, w odpowienich folderach.
   
   
   
