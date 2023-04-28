@@ -1,28 +1,13 @@
-# Witam serdecznie 
-
-
-
 ## Co to jest?
+Jest to mój profil na GitHubie. 
+  
+## Czy znajdę tu coś ciekawego?
+Najprawdopodobniej nie.
 
-Jest to mój profil na GitHubie. Przechowywane są tu pliki ze szkoły oraz własne projekty. Na dzień dzisiejszy (02/12/2022) znajduje się tu większość rzeczy, które były przerabiane na AITP oraz informatyce. 
-Wszystko znajdujące się na tym profilu może być dowolnie kopiowane w dowolnych celach. Przy wykorzystaniu komercyjnym (a w to wątpię) prosiłbym o podanie linku do mojego profilu w opisie projektu.
-  
-  
-  
-## Co gdzie jest?
+## Czym się interesuję?
+Generalnie to HTML, CSS i JS. Do tego dochodzi jeszcze NodeJS, ale to w mniejszym stopniu.
 
-Poszczególne przedmioty szkolne (AITP/informatyka) mają osobne repozytoria. Projekty własne mogą być znalezione w tym repozytorium, w odpowienich folderach.
-  
-  
-  
- ## W jakich językach piszę?
- 
-Głównie to C++ i Python, z czego C++'a rozumiem bardziej. 
-  
-  
-  
- ## Gdzie można mnie znaleźć?
- 
- -  na Discordzie - sok z komucha#0353
- -  na Steamie - https://steamcommunity.com/id/ccl2f2/
- -  na YouTube - https://www.youtube.com/channel/UCy08jacDCiXfdkaCB2dyzng
+## Gdzie można mnie znaleźć?
+- Discord - sok z komucha#0353
+- Steam - https://steamcommunity.com/id/ccl2f2/
+- YouTube - https://www.youtube.com/channel/UCy08jacDCiXfdkaCB2dyzng
