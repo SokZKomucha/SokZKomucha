@@ -1,13 +1,13 @@
-## Co to jest?
-Jest to mój profil na GitHubie. 
-  
-## Czy znajdę tu coś ciekawego?
-Najprawdopodobniej nie.
+## Co to jest? Kim jestem?
 
-## Czym się interesuję?
-Generalnie to HTML, CSS i JS. Do tego dochodzi jeszcze NodeJS, ale to w mniejszym stopniu.
+Jest to mój profil na GitHubie. 
+
+Co do mnie, mam 16 lat, mieszkam w Polsce. Chodzę do technikum, kierunek technik-programista. 
+  
+## Czym się interesuję? Co umiem?
+
+Czego można było się domyślić, interesuję się programowaniem, na tą chwilę głównie frontendem. Całkiem dobrze umiem **HTML**a oraz **CSS**a. Do tego dochodzą najistotniejsze dziedziny z **Javascript**u, oraz **NodeJS** w celu tworzenia serwerów (**expressJS**).  
 
 ## Gdzie można mnie znaleźć?
-- Discord - sok z komucha#0353
-- Steam - https://steamcommunity.com/id/ccl2f2/
-- YouTube - https://www.youtube.com/channel/UCy08jacDCiXfdkaCB2dyzng
+
+Wszystkie interesujące linki związane ze mną można znaleźć [tutaj](https://sokzkomucha.xyz).
