@@ -1,12 +1,14 @@
 ## Co to jest? Kim jestem?
 
-Jest to mój profil na GitHubie. 
+Jest to mój profil na GitHubie. Co do mnie, mam 16 lat, mieszkam w Polsce. Chodzę do technikum, kierunek technik-programista. 
 
-Co do mnie, mam 16 lat, mieszkam w Polsce. Chodzę do technikum, kierunek technik-programista. 
-  
+<br>
+
 ## Czym się interesuję? Co umiem?
 
 Czego można było się domyślić, interesuję się programowaniem, na tą chwilę głównie frontendem. Całkiem dobrze umiem **HTML**a oraz **CSS**a. Do tego dochodzą najistotniejsze dziedziny z **Javascript**u, oraz **NodeJS** w celu tworzenia serwerów (**expressJS**).  
+
+<br>
 
 ## Gdzie można mnie znaleźć?
 
