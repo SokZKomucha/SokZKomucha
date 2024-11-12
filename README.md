@@ -1,3 +1,3 @@
-Welcome to my GitHub profile! 
+### Welcome to my GitHub profile! 
 
-Unless you find something, there should be nothing interesting here. For more information about me, refer to [my website](https://sokzkomucha.xyz)
+Unless you manage to find something, there shouldn't be anything interesting here. For more information about me, refer to [my website](https://sokzkomucha.xyz)
